@@ -59,4 +59,15 @@ public class Student implements Serializable {
     public void setGpa(float gpa) {
         this.gpa = gpa;
     }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", age=" + age +
+                ", address='" + address + '\'' +
+                ", gpa=" + gpa +
+                '}';
+    }
 }

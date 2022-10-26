@@ -1,0 +1,12 @@
+1@@Thang @@20@@Dai BAi@@3.2
+2@@Anh@@21@@An Giang@@2.9
+3@@Quang@@19@@Nghe An@@3.1
+4@@Dai@@19@@Dinh To@@3.2
+5@@Thanh@@19@@Hai Phong@@3.4
+6@@Thinh@@19@@Gia Binh@@3.6
+7@@Hanh@@21@@Gia Binh@@2.9
+8@@Quan@@20@@Bac NInh@@3.3
+9@@Hai Chi@@20@@Bac Ninh@@3.2
+10@@Ba Hoan@@19@@Thuan Thanh@@3.4
+11@@Anh Thu@@18@@Ha Noi@@3.2
+12@@Tra My@@21@@Quang Ninh@@3.2
